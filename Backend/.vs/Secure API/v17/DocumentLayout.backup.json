@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|z:\\git repo\\encryption-decryption-hashing\\backend\\services\\aesgcmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\aesgcmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|z:\\git repo\\encryption-decryption-hashing\\backend\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AesGcmService.cs",
+              "DocumentMoniker": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\AesGcmService.cs",
+              "RelativeDocumentMoniker": "Services\\AesGcmService.cs",
+              "ToolTip": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\AesGcmService.cs",
+              "RelativeToolTip": "Services\\AesGcmService.cs",
+              "ViewState": "AgIAACQAAACAZmZmZmYiwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:35:57.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CryptoController.cs",
+              "DocumentMoniker": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\CryptoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CryptoController.cs",
+              "ToolTip": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\CryptoController.cs",
+              "RelativeToolTip": "Controllers\\CryptoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:35:37.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

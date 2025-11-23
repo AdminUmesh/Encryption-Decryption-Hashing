@@ -1,0 +1,108 @@
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\appsettings.Development.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\appsettings.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Secure API.staticwebassets.endpoints.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Secure API.exe
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Secure API.deps.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Secure API.runtimeconfig.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Secure API.pdb
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.csproj.AssemblyReference.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\rpswa.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.AssemblyInfoInputs.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.AssemblyInfo.cs
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.csproj.CoreCompileInputs.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cs
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.sourcelink.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\scopedcss\bundle\Secure API.styles.css
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\staticwebassets.build.json.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.csproj.Up2Date
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\refint\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.pdb
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\Secure API.genruntimeconfig.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\Secure API\obj\Debug\net8.0\ref\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\appsettings.Development.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\appsettings.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Secure API.staticwebassets.endpoints.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Secure API.exe
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Secure API.deps.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Secure API.runtimeconfig.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Secure API.pdb
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.AssemblyReference.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.AssemblyInfoInputs.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.AssemblyInfo.cs
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.CoreCompileInputs.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cs
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.sourcelink.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\scopedcss\bundle\Secure API.styles.css
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.Up2Date
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\refint\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.pdb
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\Secure API.genruntimeconfig.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Encryption Decryption and Hashing\Backend\obj\Debug\net8.0\ref\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\appsettings.Development.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\appsettings.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.staticwebassets.endpoints.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.exe
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.deps.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.runtimeconfig.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.pdb
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.AssemblyReference.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.AssemblyInfoInputs.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.AssemblyInfo.cs
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.CoreCompileInputs.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cs
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.sourcelink.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\scopedcss\bundle\Secure API.styles.css
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.Up2Date
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\refint\Secure API.dll
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.pdb
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.genruntimeconfig.cache
+Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\ref\Secure API.dll
