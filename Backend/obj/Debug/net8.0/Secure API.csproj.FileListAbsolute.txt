@@ -106,3 +106,40 @@ Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\refint\Secure
 Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.pdb
 Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.genruntimeconfig.cache
 Z:\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\ref\Secure API.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.AssemblyReference.cache
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.GeneratedMSBuildEditorConfig.editorconfig
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.AssemblyInfoInputs.cache
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.AssemblyInfo.cs
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.CoreCompileInputs.cache
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cs
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.MvcApplicationPartsAssemblyInfo.cache
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.sourcelink.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\refint\Secure API.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.pdb
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\appsettings.Development.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\appsettings.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.staticwebassets.endpoints.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.exe
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.deps.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.runtimeconfig.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Secure API.pdb
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\scopedcss\bundle\Secure API.styles.css
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.development.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.csproj.Up2Date
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\Secure API.genruntimeconfig.cache
+P:\Aimil WorkSpace\Git Repo\Encryption-Decryption-Hashing\Backend\obj\Debug\net8.0\ref\Secure API.dll

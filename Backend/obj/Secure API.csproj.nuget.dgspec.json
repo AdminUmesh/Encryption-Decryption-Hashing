@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj": {}
+    "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj": {}
   },
   "projects": {
-    "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj": {
+    "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj",
+        "projectUniqueName": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj",
         "projectName": "Secure API",
-        "projectPath": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\obj\\",
+        "projectPath": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Secure API.csproj",
+        "packagesPath": "C:\\Users\\nextgen-crs\\.nuget\\packages\\",
+        "outputPath": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nextgen-crs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

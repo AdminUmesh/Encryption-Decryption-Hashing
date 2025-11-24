@@ -1,14 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\",
+  "WorkspaceRootPath": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|z:\\git repo\\encryption-decryption-hashing\\backend\\services\\aesgcmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\aesgcmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|z:\\git repo\\encryption-decryption-hashing\\backend\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\controllers\\sha256controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:controllers\\sha256controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\controllers\\md5controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:controllers\\md5controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\services\\isha256service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\isha256service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\services\\inmemorysha256service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\inmemorysha256service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\services\\ibcryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\ibcryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\services\\inmemorybcryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\inmemorybcryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\controllers\\bcryptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:controllers\\bcryptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\services\\imd5service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\imd5service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\services\\inmemorymd5service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\inmemorymd5service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|p:\\aimil workspace\\git repo\\encryption-decryption-hashing\\backend\\services\\aesgcmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D6FC7-9563-42A3-8EE6-BF3E62FE9A29}|Secure API.csproj|solutionrelative:services\\aesgcmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +66,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sha256Controller.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\Sha256Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Sha256Controller.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\Sha256Controller.cs",
+              "RelativeToolTip": "Controllers\\Sha256Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:03:14.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Md5Controller.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\Md5Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Md5Controller.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\Md5Controller.cs",
+              "RelativeToolTip": "Controllers\\Md5Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:25:56.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemorySha256Service.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\InMemorySha256Service.cs",
+              "RelativeDocumentMoniker": "Services\\InMemorySha256Service.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\InMemorySha256Service.cs",
+              "RelativeToolTip": "Services\\InMemorySha256Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:01:09.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISha256Service.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\ISha256Service.cs",
+              "RelativeDocumentMoniker": "Services\\ISha256Service.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\ISha256Service.cs",
+              "RelativeToolTip": "Services\\ISha256Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:59:24.921Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AesGcmService.cs",
-              "DocumentMoniker": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\AesGcmService.cs",
-              "RelativeDocumentMoniker": "Services\\AesGcmService.cs",
-              "ToolTip": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\AesGcmService.cs",
-              "RelativeToolTip": "Services\\AesGcmService.cs",
-              "ViewState": "AgIAACQAAACAZmZmZmYiwDAAAAAsAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvy8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T17:35:57.709Z",
+              "WhenOpened": "2025-11-24T10:49:41.798Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryBcryptService.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\InMemoryBcryptService.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryBcryptService.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\InMemoryBcryptService.cs",
+              "RelativeToolTip": "Services\\InMemoryBcryptService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:52:00.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMd5Service.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\IMd5Service.cs",
+              "RelativeDocumentMoniker": "Services\\IMd5Service.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\IMd5Service.cs",
+              "RelativeToolTip": "Services\\IMd5Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:47:11.966Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CryptoController.cs",
-              "DocumentMoniker": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\CryptoController.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\CryptoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CryptoController.cs",
-              "ToolTip": "Z:\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\CryptoController.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\CryptoController.cs",
               "RelativeToolTip": "Controllers\\CryptoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T17:35:37.82Z"
+              "WhenOpened": "2025-11-23T17:35:37.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T11:24:20.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBcryptService.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\IBcryptService.cs",
+              "RelativeDocumentMoniker": "Services\\IBcryptService.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\IBcryptService.cs",
+              "RelativeToolTip": "Services\\IBcryptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:33:20.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InMemoryMd5Service.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\InMemoryMd5Service.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryMd5Service.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\InMemoryMd5Service.cs",
+              "RelativeToolTip": "Services\\InMemoryMd5Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:51:19.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BCryptController.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\BCryptController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BCryptController.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Controllers\\BCryptController.cs",
+              "RelativeToolTip": "Controllers\\BCryptController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:35:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:31:01.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AesGcmService.cs",
+              "DocumentMoniker": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\AesGcmService.cs",
+              "RelativeDocumentMoniker": "Services\\AesGcmService.cs",
+              "ToolTip": "P:\\Aimil WorkSpace\\Git Repo\\Encryption-Decryption-Hashing\\Backend\\Services\\AesGcmService.cs",
+              "RelativeToolTip": "Services\\AesGcmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:35:57.709Z"
             }
           ]
         }

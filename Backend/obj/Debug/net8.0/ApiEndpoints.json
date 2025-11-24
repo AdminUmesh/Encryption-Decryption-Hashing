@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "Secure_API.Controllers.BCryptController",
+    "Method": "Login",
+    "RelativePath": "api/BCrypt/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.BCryptController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Secure_API.Controllers.BCryptController",
+    "Method": "Register",
+    "RelativePath": "api/BCrypt/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.BCryptController\u002BRegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Secure_API.Controllers.CryptoController",
     "Method": "Decrypt",
     "RelativePath": "api/Crypto/decrypt",
@@ -70,6 +102,70 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Secure_API.Controllers.Md5Controller",
+    "Method": "Login",
+    "RelativePath": "api/Md5/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.Md5Controller\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Secure_API.Controllers.Md5Controller",
+    "Method": "Register",
+    "RelativePath": "api/Md5/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.Md5Controller\u002BRegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Secure_API.Controllers.Sha256Controller",
+    "Method": "Login",
+    "RelativePath": "api/Sha256/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.Sha256Controller\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Secure_API.Controllers.Sha256Controller",
+    "Method": "Register",
+    "RelativePath": "api/Sha256/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.Sha256Controller\u002BRegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Secure_API.Controllers.WeatherForecastController",
