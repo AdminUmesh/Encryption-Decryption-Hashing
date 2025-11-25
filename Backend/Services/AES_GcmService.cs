@@ -3,7 +3,7 @@ using System.Security.Cryptography;
 
 namespace Secure_API.Services
 {
-    public class AesGcmService
+    public class AES_GcmService
     {
         public const int KeySize = 32; // 256-bit
         public const int NonceSize = 12;
@@ -13,7 +13,7 @@ namespace Secure_API.Services
 
         // For demo we generate and keep a key in memory.
         // In production store key securely (Key Vault / environment / keystore).
-        public AesGcmService()
+        public AES_GcmService()
         {
             _key = new byte[KeySize];
             RandomNumberGenerator.Fill(_key);

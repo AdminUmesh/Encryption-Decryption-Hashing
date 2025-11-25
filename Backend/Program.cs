@@ -12,7 +12,7 @@ namespace Secure_API
             // Add services to the container.
 
             builder.Services.AddControllers();
-            builder.Services.AddSingleton<Secure_API.Services.AesGcmService>(); //For AES-GCM Encryption
+            builder.Services.AddSingleton<Secure_API.Services.AES_GcmService>(); //For AES-GCM Encryption
             builder.Services.AddSingleton<IBcryptService, InMemoryBcryptService>(); //For Bcrypt Hashing
             builder.Services.AddSingleton<IMd5Service, InMemoryIMd5Service>(); //For MD5 Hashing
             builder.Services.AddSingleton<ISha256Service, InMemorySha256Service>(); //For SHA-256 Hashing

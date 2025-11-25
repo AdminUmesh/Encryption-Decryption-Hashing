@@ -6,10 +6,10 @@ namespace Secure_API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class CryptoController : ControllerBase
+    public class AES_GCMController : ControllerBase
     {
-        private readonly AesGcmService _service;
-        public CryptoController(AesGcmService service)
+        private readonly AES_GcmService _service;
+        public AES_GCMController(AES_GcmService service)
         {
             _service = service;
         }

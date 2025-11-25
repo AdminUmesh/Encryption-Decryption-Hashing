@@ -1,0 +1,28 @@
+<div style="font-family:sans-serif;max-width:900px;margin:1.5rem auto;padding:1rem;">
+  <h1>Encryption and Hashing</h1>
+  <br>
+  <h6>Let's Try</h6>
+  <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1rem;">
+    <a routerLink="/aes-gcm" class="btn">AES-GCM Encryption</a>
+    <a routerLink="/bcrypt" class="btn">Bcrypt Hashing</a>
+    <a routerLink="/md5" class="btn">MD5 Hashing</a>
+    <a routerLink="/sha256" class="btn">SHA-256 Hashing</a>
+  </div>
+
+  <hr />
+</div>
+
+<!-- quick inline styling for the simple demo -->
+<style>
+  .btn{
+    display:inline-block;
+    padding:0.5rem 0.9rem;
+    border-radius:6px;
+    text-decoration:none;
+    border:1px solid #fa8f8f;
+    background:#acfc86;
+    color:#111;
+    transition:background .15s;
+  }
+  .btn:hover{ background:#eee; }
+</style>

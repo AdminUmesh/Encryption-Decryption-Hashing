@@ -4,12 +4,13 @@ import { RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 
 @Component({
-  selector: 'app-root',
-  standalone: true,
+  selector: 'app-home',
   imports: [CommonModule, RouterModule, FormsModule],
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css'],
+  templateUrl: './home.component.html',
+  styleUrl: './home.component.css',
 })
-export class AppComponent {
-
+export class HomeComponent {
+  plain = '';
+  encrypted = '';
+  decrypted = '';
 }

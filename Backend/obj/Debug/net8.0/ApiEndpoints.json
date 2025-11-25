@@ -1,5 +1,77 @@
 [
   {
+    "ContainingType": "Secure_API.Controllers.AES_GCMController",
+    "Method": "Decrypt",
+    "RelativePath": "api/AES_GCM/decrypt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.AES_GCMController\u002BEncryptedRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Secure_API.Controllers.AES_GCMController",
+    "Method": "Encrypt",
+    "RelativePath": "api/AES_GCM/encrypt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Secure_API.Controllers.AES_GCMController\u002BPlainRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Secure_API.Controllers.AES_GCMController",
+    "Method": "GetKeyBase64",
+    "RelativePath": "api/AES_GCM/key",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Secure_API.Controllers.BCryptController",
     "Method": "Login",
     "RelativePath": "api/BCrypt/login",
@@ -30,78 +102,6 @@
       }
     ],
     "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Secure_API.Controllers.CryptoController",
-    "Method": "Decrypt",
-    "RelativePath": "api/Crypto/decrypt",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "req",
-        "Type": "Secure_API.Controllers.CryptoController\u002BEncryptedRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Secure_API.Controllers.CryptoController",
-    "Method": "Encrypt",
-    "RelativePath": "api/Crypto/encrypt",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "req",
-        "Type": "Secure_API.Controllers.CryptoController\u002BPlainRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Secure_API.Controllers.CryptoController",
-    "Method": "GetKeyBase64",
-    "RelativePath": "api/Crypto/key",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
   },
   {
     "ContainingType": "Secure_API.Controllers.Md5Controller",
